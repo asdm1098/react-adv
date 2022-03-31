@@ -59,7 +59,7 @@ export const FormikAbstraction = () => {
                                     label="Email" 
                                     name="email" 
                                     placeholder='asdm1098@gmail.com'    
-                                    trype='email'
+                                    type='email'
                                 />
 
                                 <MySelect name="jobType" as="select" label='Job Type' >
